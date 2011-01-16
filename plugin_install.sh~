@@ -1,5 +1,0 @@
-#!/bin/bash
-
-cp export.py ~/.gimp-2.6/plug-ins/
-killall -9 gimp
-gimp
